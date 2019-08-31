@@ -44,11 +44,11 @@ Explicação: Neste print temos os arquivos no repositorio como comprovação
 
 11 - git pull
 
-Explicação: 
+Explicação: Neste comando temos a executado do git pull
 
 12 - git pull Final
 
-Explicação: 
+Explicação: Neste print temos a comprovação da execução do git pull pois foi identificado a criação de uma branch 
 
 13 - git fetch
 
